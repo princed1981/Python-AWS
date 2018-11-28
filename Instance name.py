@@ -18,4 +18,4 @@ print(instance[0].id)
 ####for instance_id in sys.argv[1:]:
 ##instance = ec2.Instance('i-0f9b99beeefbb0955')
 ##response = instance.terminate()
-##print(response)
+
